@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1781919497293,
+    "nombre": "juan del carmen",
+    "rol": "ingeniero en pavimentacion aerea",
+    "propuesta": "pavimentar todo el cielo",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1781919534354,
+    "nombre": "juan mecanico",
+    "rol": "mecanico automotriz",
+    "propuesta": "mecanizar a los mecanicos macanizados",
+    "estado": "Perfil de práctica académica"
+  }
+]
